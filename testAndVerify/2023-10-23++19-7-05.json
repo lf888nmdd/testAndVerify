@@ -1,0 +1,25 @@
+[
+    {
+        "url": "https://query-api.unisat.io/api-t1/brc20/{ticker}/history",
+        "data": {
+            "detail": {
+                "address": "tb1pj4u8exs934jplc7d0rt8wsjelwslky5g3jl8m6cw8krqlehhs09s5389p5",
+                "overallBalance": "500000",
+                "transferableBalance": "0",
+                "availableBalance": "500000"
+            }
+        }
+    },
+    {
+        "url": "https://query-api.unisat.io/api-t2/brc20/{ticker}/history",
+        "data": {
+            "detail": {
+                "address": "tb1p2mfnaykx5tv25s98j8s7hnkcw4xttdg5g46c7qqewe2c8v7kl20q4gatd6",
+                "overallBalance": "500000",
+                "transferableBalance": "0",
+                "availableBalance": "500000"
+            },
+            "gn": "/-----------------/"
+        }
+    }
+]
